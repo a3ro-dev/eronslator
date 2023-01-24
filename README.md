@@ -39,7 +39,7 @@ git clone https://github.com/a3ro-dev/eronslator
 2. Navigate to the project directory
 
 ```bash
-cd translator
+cd eronslator
 ```
 
 3. Run the application
