@@ -59,7 +59,7 @@ The application will display the translated text, speak it out and also provide 
 
 ## Authors
 
-* **Aero** - [Your Github Profile](https://github.com/a3ro-dev)
+* **Aero** - [Github Profile](https://github.com/a3ro-dev)
 
 ## License
 
