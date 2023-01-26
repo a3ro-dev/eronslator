@@ -1,0 +1,5 @@
+googletrans
+speech_recognition
+gtts
+audioplayer
+platform
