@@ -129,7 +129,7 @@ Languages supported:
 
 AppName = 'Eronslator'
 Developer = 'Aero'
-Version = '2.0'
+Version = '2.0.1'
 Machine = platform.uname()
 Translation = googletrans.Translator()
 Recognition = speech_recognition.Recognizer()
