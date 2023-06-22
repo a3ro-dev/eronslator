@@ -1,5 +1,4 @@
 googletrans
-speech_recognition
-gtts
+SpeechRecognition
+gTTS
 audioplayer
-platform
